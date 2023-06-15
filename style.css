@@ -21,3 +21,8 @@
     margin-top: 5px;
     border-radius: 5px;
 }
+@media (max-width:600px) {
+    .container{
+        column-count: 1;
+    }
+}
