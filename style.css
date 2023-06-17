@@ -10,16 +10,17 @@
     left: 10%;
     width: 80%;
     column-count: 3;
-    column-gap: 10px;
+    column-gap: 18px;
     text-align: center;
-    padding: 10px;
+    padding: 18px;
     padding-top: 2px;
 }
 .container img{
     position: relative;
     width: 100%;
-    margin-top: 5px;
+    margin-top: 13px;
     border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
 }
 @media (max-width:600px) {
     .container{
